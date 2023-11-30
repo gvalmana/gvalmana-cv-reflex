@@ -2,4 +2,6 @@
 *.py[cod]
 .web
 __pycache__/
+public/
 venv/
+frontend.zip
